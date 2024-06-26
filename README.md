@@ -5,6 +5,8 @@ How it looks:
 ![image](https://github.com/Sandy-GT/KBC/assets/173798200/0ba1f58b-b1f3-4fb7-a8e4-cbcb370c3628)<br><br>
 Creative and engaging interface<br>
 ![image](https://github.com/Sandy-GT/KBC/assets/173798200/080cea22-691e-46ba-a452-dbbdc389d831)
+# Requirements
+. Java 11 or higher.
 # Installation
 1. Download Netbeans or any other java IDE.
 2. Import all the files from the repo into a folder.
