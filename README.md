@@ -7,4 +7,6 @@ Creative and engaging interface<br>
 ![image](https://github.com/Sandy-GT/KBC/assets/173798200/080cea22-691e-46ba-a452-dbbdc389d831)
 # Installation
 1. Download Netbeans or any other java IDE.
-2. 
+2. Import all the files from the repo into a folder.
+3. Then import the folder in the IDE.
+4. Run the application.
